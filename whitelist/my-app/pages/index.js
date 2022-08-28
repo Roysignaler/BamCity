@@ -201,7 +201,7 @@ export default function Home() {
           <div>
             <h1 className={styles.title}>Velkommen til Bam City Simba KampNFT!</h1>
             <div className={styles.description}>
-              Dette er en invitationsliste til Simba's første KampNFT for Bam City FC.
+              Dette er en invitationsliste til Simbas første KampNFT for Bam City FC.
             </div>
             <div className={styles.description}>
               {numberOfWhitelisted} har allerede skrevet sig op.
